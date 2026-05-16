@@ -58,11 +58,15 @@ ControlNet is a neural network structure to control diffusion models by adding e
 
 ### Autoregressive model
 
-In statistics, an autoregressive (AR) model is a modelled representation of a type of random process. It can be used to describe time-varying processes from many natural and artificial sources. The model specifies output variables that are dependent linearly on their own previous values on a stochastic basis. The model is in the form of a stochastic difference equation (or recurrence relation)
+In statistics, an autoregressive (AR) model is a modelled representation of a type of random process. It can be used to describe time-varying processes from many natural and artificial sources. The model specifies output variables that are dependent linearly on their own previous values on a stochastic basis. The model is in the form of a stochastic difference equation (or recurrence relation). [7]
 
 ### Autoregressive generation
 
 Generate future data step by step.
+
+### What is a tensor
+
+Tensors are simply mathematical objects that can be used to describe physical properties, just like scalars and vectors. In fact tensors are merely a generalisation of scalars and vectors; a scalar is a zero rank tensor, and a vector is a first rank tensor. The rank (or order) of a tensor is defined by the number of directions (and hence the dimensionality of the array) required to describe it. [8]
 
 ### Few-step distillation
 
@@ -156,9 +160,7 @@ TODO
 
 TODO
 
-### What is a tensor
 
-Tensors are simply mathematical objects that can be used to describe physical properties, just like scalars and vectors. In fact tensors are merely a generalisation of scalars and vectors; a scalar is a zero rank tensor, and a vector is a first rank tensor. The rank (or order) of a tensor is defined by the number of directions (and hence the dimensionality of the array) required to describe it. [8]
 
 
 # Biblio
