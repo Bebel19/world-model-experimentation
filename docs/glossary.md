@@ -156,6 +156,15 @@ TODO
 
 TODO
 
+### What is a tensor
+
+Tensors are simply mathematical objects that can be used to describe physical properties, just like scalars and vectors. In fact tensors are merely a generalisation of scalars and vectors; a scalar is a zero rank tensor, and a vector is a first rank tensor. The rank (or order) of a tensor is defined by the number of directions (and hence the dimensionality of the array) required to describe it. [8]
+
+
+# Biblio
+
+
+
 ## Biblio
 
 [1] [What Is a World Model? ](https://www.nvidia.com/en-us/glossary/world-models/)
@@ -165,3 +174,4 @@ TODO
 [5] [DiT — Diffusion Transformer](https://medium.com/@threehappyer/understanding-dit-diffusion-transformer-in-one-article-2f7c330ad0ea)
 [6] [ControlNet](https://stablediffusionweb.com/fr/ControlNet)
 [7] [Autoregressive model](https://en.wikipedia.org/wiki/Autoregressive_model)
+[8] [What is a Tensor?](https://www.doitpoms.ac.uk/tlplib/tensors/what_is_tensor.php)
