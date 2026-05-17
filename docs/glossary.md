@@ -84,6 +84,10 @@ Rectified linear unit is an activation fuction that nullifes all negative values
 
 Rescales an n-dimensional input Tensor elements so that the elements of the n-dimensional output Tensor lie in the range [0,1] and sum to 1. [10]
 
+### Back propagation
+
+In this algorithm, parameters (model weights) are adjusted according to the gradient of the loss function with respect to the given parameter. [11]
+
 ### Few-step distillation
 
 TODO
@@ -195,3 +199,4 @@ TODO
 [8] [What is a Tensor?](https://www.doitpoms.ac.uk/tlplib/tensors/what_is_tensor.php)
 [9] [Rectified linear unit](https://docs.pytorch.org/docs/2.12/generated/torch.nn.ReLU.html)
 [10] [Softmax](https://docs.pytorch.org/docs/2.12/generated/torch.nn.Softmax.html)
+[11] [Back propagation](https://visionbook.mit.edu/backpropagation.html)
