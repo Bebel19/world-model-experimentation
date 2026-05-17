@@ -8,6 +8,6 @@ The docs folder contains a [glossary](https://github.com/Bebel19/world-model-exp
 
 ## Pytorch tutorial
 
-For this project I have chosen to use Pytorch as it is use widely in current research. Therefore, I have chosen to add the official PyTorch tutorials [here](https://github.com/Bebel19/world-model-experimentation/tree/main/tutorials).
+For this project I have chosen to use Pytorch as it is use widely in current research. Therefore, I have chosen to add the [official PyTorch tutorials](https://github.com/pytorch/tutorials).
 
 
