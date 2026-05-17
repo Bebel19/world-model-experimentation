@@ -1,0 +1,3 @@
+[submodule "tutorials/pytorch_tutorials"]
+	path = tutorials/pytorch_tutorials
+	url = https://github.com/Bebel19/pytorch_tutorials.git
