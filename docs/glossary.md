@@ -68,6 +68,14 @@ Generate future data step by step.
 
 Tensors are simply mathematical objects that can be used to describe physical properties, just like scalars and vectors. In fact tensors are merely a generalisation of scalars and vectors; a scalar is a zero rank tensor, and a vector is a first rank tensor. The rank (or order) of a tensor is defined by the number of directions (and hence the dimensionality of the array) required to describe it. [8]
 
+### Backpropagation
+
+TODO
+
+### Epochs
+
+TODO
+
 ### Few-step distillation
 
 TODO
