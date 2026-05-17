@@ -80,6 +80,10 @@ TODO
 
 Rectified linear unit is an activation fuction that nullifes all negative values. It is used to reduce non-linearities. [9]
 
+### Softmax
+
+Rescales an n-dimensional input Tensor elements so that the elements of the n-dimensional output Tensor lie in the range [0,1] and sum to 1. [10]
+
 ### Few-step distillation
 
 TODO
@@ -190,3 +194,4 @@ TODO
 [7] [Autoregressive model](https://en.wikipedia.org/wiki/Autoregressive_model)
 [8] [What is a Tensor?](https://www.doitpoms.ac.uk/tlplib/tensors/what_is_tensor.php)
 [9] [Rectified linear unit](https://docs.pytorch.org/docs/2.12/generated/torch.nn.ReLU.html)
+[10] [Softmax](https://docs.pytorch.org/docs/2.12/generated/torch.nn.Softmax.html)
