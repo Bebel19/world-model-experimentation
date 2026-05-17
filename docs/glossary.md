@@ -76,6 +76,10 @@ TODO
 
 TODO
 
+### Rectified linear unit (ReLu)
+
+Rectified linear unit is an activation fuction that nullifes all negative values. It is used to reduce non-linearities.
+
 ### Few-step distillation
 
 TODO
