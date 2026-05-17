@@ -78,7 +78,7 @@ TODO
 
 ### Rectified linear unit (ReLu)
 
-Rectified linear unit is an activation fuction that nullifes all negative values. It is used to reduce non-linearities.
+Rectified linear unit is an activation fuction that nullifes all negative values. It is used to reduce non-linearities. [9]
 
 ### Few-step distillation
 
@@ -189,3 +189,4 @@ TODO
 [6] [ControlNet](https://stablediffusionweb.com/fr/ControlNet)
 [7] [Autoregressive model](https://en.wikipedia.org/wiki/Autoregressive_model)
 [8] [What is a Tensor?](https://www.doitpoms.ac.uk/tlplib/tensors/what_is_tensor.php)
+[9] [Rectified linear unit](https://docs.pytorch.org/docs/2.12/generated/torch.nn.ReLU.html)
