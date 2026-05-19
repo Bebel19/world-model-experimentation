@@ -88,6 +88,10 @@ Rescales an n-dimensional input Tensor elements so that the elements of the n-di
 
 In this algorithm, parameters (model weights) are adjusted according to the gradient of the loss function with respect to the given parameter. [11]
 
+### Gradient descent
+
+The starting point is just an arbitrary point for us to evaluate the performance. From that starting point, we will find the derivative (or slope), and from there, we can use a tangent line to observe the steepness of the slope. The slope will inform the updates to the model parameters—i.e. the weights and bias. The slope at the starting point will be steeper, but as new parameters are generated, the steepness should gradually reduce until it reaches the lowest point on the curve, known as the point of convergence. [12]
+
 ### Few-step distillation
 
 TODO
@@ -200,3 +204,4 @@ TODO
 [9] [Rectified linear unit](https://docs.pytorch.org/docs/2.12/generated/torch.nn.ReLU.html)
 [10] [Softmax](https://docs.pytorch.org/docs/2.12/generated/torch.nn.Softmax.html)
 [11] [Back propagation](https://visionbook.mit.edu/backpropagation.html)
+[12] [What is gradient descent?](https://www.ibm.com/think/topics/gradient-descent)
